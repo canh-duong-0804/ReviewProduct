@@ -1,0 +1,414 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using ProductReview.Models
+@model Product
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>eLEARNING - eLearning WEB</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+    <!-- Favicon -->
+    <link href="~/img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <link href="~/css/bootstrap3.css" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <!--        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">-->
+    <!-- Libraries Stylesheet -->
+    <link href="~/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="~/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <base href="http://localhost:5203/" />
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <!--<link href="css/bootstrap.min_homepage.css" rel="stylesheet">-->
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="~/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="~/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/bootstrap.min_homepage.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="~/css/homepage.css" rel="stylesheet">
+    <link href="~/css/searchbar.css" rel="stylesheet">
+    <style>
+        /* CSS cho phần comment */
+        .comment-section {
+            margin-bottom: 20px;
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+
+            .comment-section label {
+                font-weight: bold;
+            }
+
+            .comment-section textarea {
+                width: 100%;
+                height: 100px;
+                padding: 5px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+
+        .rating {
+            margin-top: 10px;
+        }
+
+            .rating span {
+                font-weight: bold;
+            }
+
+            .rating input[type="radio"] {
+                display: none;
+            }
+
+            .rating label {
+                display: inline-block;
+                padding: 3px 8px;
+                background-color: #f2f2f2;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            .rating input[type="radio"]:checked + label {
+                background-color: #ffc107;
+                color: #fff;
+            }
+
+        .btn-primary {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        /* CSS cho bảng comment */
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .table thead th,
+            .table tbody td {
+                padding: 10px;
+                border: 1px solid #ccc;
+            }
+
+            .table thead th {
+                background-color: #f2f2f2;
+                font-weight: bold;
+            }
+
+            .table tbody tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            .table tbody tr:hover {
+                background-color: #e9e9e9;
+            }
+
+        /* CSS cho comment của khách hàng */
+        .customer-comment {
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 10px;
+            margin-left: 200px;
+            margin-right: 200px;
+            background-color: #f2f2f2;
+        }
+
+            .customer-comment .customer-name {
+                font-weight: bold;
+                margin-bottom: 5px;
+            }
+
+            .customer-comment .comment-content {
+                margin-bottom: 5px;
+            }
+
+            .customer-comment .comment-rating {
+                font-weight: bold;
+            }
+
+            .customer-comment .comment-date {
+                font-style: italic;
+                color: #888;
+            }
+
+        .checked {
+            color: orange;
+        }
+
+        .rate {
+            float: left;
+            height: 46px;
+            padding: 0 10px;
+        }
+
+            .rate:not(:checked) > input {
+                display: none;
+            }
+
+            .rate:not(:checked) > label {
+                float: right;
+                width: 1em;
+                overflow: hidden;
+                white-space: nowrap;
+                cursor: pointer;
+                font-size: 30px;
+                color: #ccc;
+            }
+
+                .rate:not(:checked) > label:before {
+                    content: '★ ';
+                }
+
+            .rate > input:checked ~ label {
+                color: #ffc700;
+            }
+
+            .rate:not(:checked) > label:hover,
+            .rate:not(:checked) > label:hover ~ label {
+                color: #deb217;
+            }
+
+            .rate > input:checked + label:hover,
+            .rate > input:checked + label:hover ~ label,
+            .rate > input:checked ~ label:hover,
+            .rate > input:checked ~ label:hover ~ label,
+            .rate > label:hover ~ input:checked ~ label {
+                color: #c59b08;
+            }
+
+        /* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
+    </style>
+</head>
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+    <!-- Spinner End -->
+    <a href="#" onclick="goBack()" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+        <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Review It</h2>
+    </a>
+    <!-- header -->
+    <script>
+        function goBack() {
+            window.location.href = '@Url.Action("Index", "Home")';
+        }
+    </script>
+    <style>
+        #loginA {
+            font-size: 15px;
+            padding-top: 2.5rem !important;
+            padding-right: 3rem !important;
+            padding-left: 3rem !important;
+        }
+    </style>
+    <!-- header End -->
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper" style="width: 70%;margin-left: 250px;">
+        
+        <section class="content">
+
+            <!-- Default box -->
+            <div class="card card-solid">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-12 col-sm-6">
+                            <h3 class="d-inline-block d-sm-none"></h3>
+                            <div class="col-12">
+                                <div class="custom-div">
+                                    <img class="img-fluid w-100" style="width: 410px; height: 270px" src="~/img/@Model.Image" alt="">
+                                    <div class="product-action" style="
+                                         display:flex;
+                                         justify-content: center;
+                                         align-items: center;
+                                         ">
+                                    </div>
+                                </div>
+                            </div>
+                            <style>
+                                .custom-div {
+                                    width: 80%;
+                                    height: 80%;
+                                }
+
+                                    .custom-div img {
+                                        width: 100%;
+                                        height: 100%;
+                                        /*object-fit: cover;*/
+                                    }
+                            </style>
+                            <div class="col-12 product-image-thumbs">
+                                <div class="product-image-thumb active">
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-6">
+                            <h3 class="my-3">@Model.ProductName </h3>
+
+
+                            <hr>
+
+
+                            <h3>@ViewBag.Count Total comment</h3>
+
+                            <div class="bg-green py-2 px-3 mt-4">
+                                <h2 class="mb-0">
+                                    @Model.Price
+                                </h2>
+
+                            </div>
+                         
+                            <div>
+                                <div class="customer-name" style="margin: 0;"></div>
+                                @for (int i = 1; i <= 5; i++)
+                                {   //display ratings
+                                    if (ViewBag.sumRatings >= i)
+                                    { 
+                                        <span class="fa fa-star checked"></span>
+                                    }
+                                }
+                            </div>
+                            
+
+
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <nav class="w-100">
+                            <div class="nav nav-tabs" id="product-tab" role="tablist">
+                                <a class="nav-item nav-link active" id="product-desc-tab" data-toggle="tab" href="#product-desc"
+                                   style="font-size:160%;" role="tab" aria-controls="product-desc" aria-selected="true">Description</a>
+
+                            </div>
+                            <h3 class="my-3">@Model.Description </h3>
+                        </nav>
+                        <div class="tab-content p-3" id="nav-tabContent">
+                            <div class="tab-pane fade show active" id="product-desc" role="tabpanel"
+                                 aria-labelledby="product-desc-tab"> </div>
+                            <div class="tab-pane fade" id="product-comments" role="tabpanel" aria-labelledby="product-comments-tab">
+                            </div>
+                            <div class="tab-pane fade" id="product-rating" role="tabpanel" aria-labelledby="product-rating-tab">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+
+        </section>
+        
+        <form asp-controller="Home"  asp-action="Review" method="post">
+            <div class="comment-section">
+                <label for="comment">Comment:</label><br>
+                <textarea name="comment" id="comment"></textarea><br>
+                <br>
+                <label for="comment">Rate: </label><br>
+                <input type="text" name="ProductId" value="@Model.ProductId" hidden/>
+                
+                <div class="rate">
+                    <input type="radio" id="star5" name="rating" value="5" />
+                    <label for="star5" title="text">5 stars</label>
+                    <input type="radio" id="star4" name="rating" value="4" />
+                    <label for="star4" title="text">4 stars</label>
+                    <input type="radio" id="star3" name="rating" value="3" />
+                    <label for="star3" title="text">3 stars</label>
+                    <input type="radio" id="star2" name="rating" value="2" />
+                    <label for="star2" title="text">2 stars</label>
+                    <input type="radio" id="star1" name="rating" value="1" />
+                    <label for="star1" title="text">1 star</label>
+                </div>
+                <input type="submit" name="postComment" value="Post" class="btn btn-primary">
+
+            </div>
+        </form>
+
+        @foreach (var item in ViewBag.Review)
+        {
+            <div class="customer-comment">
+                <div style="display: flex;">
+                    <img src="https://icon-library.com/images/anonymous-avatar-icon/anonymous-avatar-icon-25.jpg" style="border-radius: 50%; width: 50px; height: 50%; margin-right: 15px" alt="alt" />
+                    <div>
+                        <div class="customer-name" style="margin: 0;"></div>
+                        @for (int i = 1; i <= 5; i++)
+                        {
+                            if (item.Rating >= i)
+                            {
+                                <span class="fa fa-star checked"></span>
+                            }
+                        }
+                    </div>
+                </div>
+                <div class="comment-date" style="font-size: 11px">Created Date: @item.ReviewDate</div>
+
+                <p>
+                    <div class="comment-content">
+                        @foreach (var line in item.ReviewText.Split('\n'))
+                        {
+                            <p>@line</p>
+                        }
+                    </div>
+                </p>
+
+                
+            </div>
+        }
+        <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+    <!-- Footer Start -->
+    p {
+    white-space: pre-line;
+    }    <!--</div>-->
+    <!-- Footer End -->
+    <!-- Back to Top -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/wow/wow.min.js"></script>
+    <script src="~/lib/easing/easing.min.js"></script>
+    <script src="~/lib/waypoints/waypoints.min.js"></script>
+    <script src="~/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+
+        // Retrieve specific parameter value
+        const name = urlParams.get('check');
+        if (name === "true") {
+            window.alert("You must buy the Course!");
+        }
+    </script>
+    <!-- Template Javascript -->
+    <script src="~/js/homepage.js"></script>
+</body>
+
+</html>

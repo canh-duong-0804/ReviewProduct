@@ -1,0 +1,208 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using ProductReview.Models
+@model List<Product>
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="~/assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="~/assets/img/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <base href="http://localhost:5203/" />
+    <title>
+        Trang chủ
+    </title>
+    <base href="http://localhost:5116/" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <!-- CSS Files -->
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/css/paper-dashboard.css?v=2.0.1" rel="stylesheet" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="~/assets/demo/demo.css" rel="stylesheet" />
+    <link href="~/css/main.css" rel="stylesheet" />
+    <style>
+        .navbar .form-group, .navbar .input-group {
+            margin: 0;
+            margin-left: 4px;
+            margin-right: 250px;
+        }
+    </style>
+</head>
+
+<body class="">
+   
+    <div class="wrapper ">
+        <div class="sidebar" data-color="white" data-active-color="danger">
+            <div class="logo">
+                <a href="Admin/UpdateUser" class="simple-text logo-mini">
+                    
+                    
+                </a>
+               
+            </div>
+            <div class="sidebar-wrapper">
+                <ul class="nav">
+                    <li class="active ">
+                        <a href="Home/Index">
+                            <i class="nc-icon nc-bank"></i>
+                            <p>Thống kê</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Home/AddProduct">
+                            <i class="fa fa-plus" aria-hidden="true"></i>
+                            <p>Thêm San pham mới</p>
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel">
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-lg navbar-absolute fixed-top navbar-transparent">
+                <div class="container-fluid">
+                    <div class="navbar-wrapper">
+                        <div class="navbar-toggle">
+                            <button type="button" class="navbar-toggler">
+                                <span class="navbar-toggler-bar bar1"></span>
+                                <span class="navbar-toggler-bar bar2"></span>
+                                <span class="navbar-toggler-bar bar3"></span>
+                            </button>
+                        </div>
+                        <a class="navbar-brand" href="javascript:;">Thống kê</a>
+                    </div>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                        <span class="navbar-toggler-bar navbar-kebab"></span>
+                    </button>
+                    <div class="collapse navbar-collapse justify-content-end" id="navigation">
+                        <form asp-action="ProductMenu" asp-controller="Home" method="post">
+                            <div class="input-group no-border">
+                                <input name="key" type="text" value="@ViewBag.key" class="form-control" placeholder="Tìm Kiếm...">
+                                <div class="input-group-append">
+                                    <div class="input-group-text">
+                                        <i class="nc-icon nc-zoom-split"></i>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+            <!-- End Navbar -->
+            <div class="content">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="tile">
+                            <div class="tile-body">
+                                <div class="row" style="margin-bottom: 15px">
+                                    <div class="col-sm-12 col-md-8">
+                                    </div>
+                                    <div class="col-sm-12 col-md-4">
+                                      
+                                        <script>
+                                            function changeSubmit() {
+                                                document.getElementById('catefrm').submit();
+                                            }
+                                        </script>
+                                    </div>
+                                </div>
+                                <div class="dataTables_wrapper container-fluid dt-bootstrap4 no-footer">
+                                    <table style="overflow:hidden" class="table p-0 table-hover table-bordered table-responsive">
+                                        <tr style="background: #eee">
+                                            <th width="4%">Id</th>
+                                            <th width="18%">Name</th>
+                                            <th width="10%">Description</th>
+                                            <th width="10%">Category</th>
+                                            <th width="10%">Brand</th>
+                                            <th width="6%">Price</th>
+                                            <th width="6%">Release Date</th>
+                                            <th width="30%">Image</th>
+                                            <th width="20%">Action</th>
+
+
+                                       
+                                        </tr>
+                                        @foreach (Product p in ViewBag.products)
+                                        {
+                                            <tr>
+                                           
+                                                <td>@p.ProductId</td>
+                                                <td>@p.ProductName</td>
+                                                <td>@p.Description</td>
+                                                <td>@p.Category</td>
+                                                <td>@p.Brand</td>
+                                                <td>@p.Price</td>
+                                                <td>@p.ReleaseDate.ToString("dd/MM/yyyy")</td>
+
+
+                                                <td><img class="img-fluid w-100"  src="~/img/@p.Image" /></td>
+                                                
+                                                
+                                               
+                                                <td>
+                                                    <button onclick="deleteProduct('@p.ProductId')" class="btn btn-primary btn-sm trash" type="button" >
+                                                        <i class="fa fa-trash"></i>
+                                                    </button>
+                                                    <button onclick="updateProduct('@p.ProductId')" class="btn btn-primary btn-sm update" type="button" >
+                                                        <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                                                    </button>
+                                                    @*<button class="btn btn-primary btn-sm eye" type="button" title="Chi tiết bài viết">
+                                                <i class="fa fa-eye" aria-hidden="true"></i>
+                                                </button>*@
+                                                </td>
+                                            </tr>
+                                        }
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            function deleteProduct(id) {
+                window.location = "/Home/DeleteBlog/" + id;
+            }
+
+            function updateProduct(id) {
+                window.location = "/Home/UpdateProduct/" + id;
+            }
+        </script>
+        <!--   Core JS Files   -->
+        <script src="~/assets/js/core/jquery.min.js"></script>
+        <script src="~/assets/js/core/popper.min.js"></script>
+        <script src="~/assets/js/core/bootstrap.min.js"></script>
+        <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+        <!--  Google Maps Plugin    -->
+        <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+        <!-- Chart JS -->
+        <script src="~/assets/js/plugins/chartjs.min.js"></script>
+        <!--  Notifications Plugin    -->
+        <script src="~/assets/js/plugins/bootstrap-notify.js"></script>
+        <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
+        <script src="~/assets/js/paper-dashboard.min.js?v=2.0.1" type="text/javascript"></script><!-- Paper Dashboard DEMO methods, don't include it in your project! -->
+        <script src="~/assets/demo/demo.js"></script>
+        <script>
+            $(document).ready(function () {
+                // Javascript method's body can be found in assets/assets-for-demo/js/demo.js
+                demo.initChartsPages();
+            });
+        </script>
+</body>
+
+</html>
+

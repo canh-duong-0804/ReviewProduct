@@ -1,0 +1,2185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\Java\\Java1.docx",
+      "PackagePath": "staticwebassets\\Java\\Java1.docx"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\Java\\Java2.docx",
+      "PackagePath": "staticwebassets\\Java\\Java2.docx"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\Java\\Java3.docx",
+      "PackagePath": "staticwebassets\\Java\\Java3.docx"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\Java\\Java4.docx",
+      "PackagePath": "staticwebassets\\Java\\Java4.docx"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\Java\\Java5.docx",
+      "PackagePath": "staticwebassets\\Java\\Java5.docx"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\css\\paper-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\css\\paper-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\css\\paper-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\damir-bosnjak.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\damir-bosnjak.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\download (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\download (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\ayo-ogunseinde-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\ayo-ogunseinde-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\ayo-ogunseinde-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\clem-onojeghuo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\clem-onojeghuo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\clem-onojeghuo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\clem-onojeghuo-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\clem-onojeghuo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\erik-lucatero-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\erik-lucatero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\erik-lucatero-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\erik-lucatero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\joe-gardner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\joe-gardner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\joe-gardner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\joe-gardner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\kaci-baum-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\kaci-baum-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\faces\\kaci-baum-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\faces\\kaci-baum-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\jan-sendereks.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\jan-sendereks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\logo-small.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\paper-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\paper-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\paper-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_animated-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_animated-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_footers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_footers.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_nucleo-outline.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-stats.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_transparency.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\paper-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\cssTable\\style.css",
+      "PackagePath": "staticwebassets\\cssTable\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\CourseBookHomePage.css",
+      "PackagePath": "staticwebassets\\css\\CourseBookHomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap.min_homepage.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min_homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap.min_listcourse.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min_listcourse.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap.min_loginRegister.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min_loginRegister.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\bootstrap3.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap3.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\checkbox.css",
+      "PackagePath": "staticwebassets\\css\\checkbox.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\classy-nav.css",
+      "PackagePath": "staticwebassets\\css\\classy-nav.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\colors.css",
+      "PackagePath": "staticwebassets\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\cssShowBookHomePage.css",
+      "PackagePath": "staticwebassets\\css\\cssShowBookHomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\homepage.css",
+      "PackagePath": "staticwebassets\\css\\homepage.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\list_course.css",
+      "PackagePath": "staticwebassets\\css\\list_course.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\loginRegister.css",
+      "PackagePath": "staticwebassets\\css\\loginRegister.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\nunito-font.css",
+      "PackagePath": "staticwebassets\\css\\nunito-font.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\orderDetail.css",
+      "PackagePath": "staticwebassets\\css\\orderDetail.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\pagination.css",
+      "PackagePath": "staticwebassets\\css\\pagination.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\searchbar.css",
+      "PackagePath": "staticwebassets\\css\\searchbar.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\version\\tech.css",
+      "PackagePath": "staticwebassets\\css\\version\\tech.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\css\\video.css",
+      "PackagePath": "staticwebassets\\css\\video.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\Nunito\\OFL.txt",
+      "PackagePath": "staticwebassets\\fonts\\Nunito\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\classy.eot",
+      "PackagePath": "staticwebassets\\fonts\\classy.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\classy.svg",
+      "PackagePath": "staticwebassets\\fonts\\classy.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\classy.ttf",
+      "PackagePath": "staticwebassets\\fonts\\classy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\classy.woff",
+      "PackagePath": "staticwebassets\\fonts\\classy.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\ads-bg.png",
+      "PackagePath": "staticwebassets\\images\\ads-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\bg-heading-03.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-heading-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\footer.png",
+      "PackagePath": "staticwebassets\\images\\footer.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\form-v9.jpg",
+      "PackagePath": "staticwebassets\\images\\form-v9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\hover.png",
+      "PackagePath": "staticwebassets\\images\\hover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\iphone.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\menubg.jpg",
+      "PackagePath": "staticwebassets\\images\\menubg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\software-developer-on-php-code.jpg",
+      "PackagePath": "staticwebassets\\images\\software-developer-on-php-code.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\version\\tech-footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\version\\tech-footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\version\\tech-logo.png",
+      "PackagePath": "staticwebassets\\images\\version\\tech-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\images\\videohover.png",
+      "PackagePath": "staticwebassets\\images\\videohover.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\67c0d899ab8378dd2192.jpg",
+      "PackagePath": "staticwebassets\\img\\67c0d899ab8378dd2192.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\Untitled Diagram.drawio (5).png",
+      "PackagePath": "staticwebassets\\img\\Untitled Diagram.drawio (5).png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\eye.jpg",
+      "PackagePath": "staticwebassets\\img\\eye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\fold.jpg",
+      "PackagePath": "staticwebassets\\img\\fold.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\ipad.jpg",
+      "PackagePath": "staticwebassets\\img\\ipad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\iphone.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\iphone12.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\laptop.jpg",
+      "PackagePath": "staticwebassets\\img\\laptop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\lipstick.jpg",
+      "PackagePath": "staticwebassets\\img\\lipstick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\img\\speaker.jpg",
+      "PackagePath": "staticwebassets\\img\\speaker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\bootstrap\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\global.js",
+      "PackagePath": "staticwebassets\\js\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\homepage.js",
+      "PackagePath": "staticwebassets\\js\\homepage.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\jquery\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\jquery\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\jsShowCourseBookHomepage.js",
+      "PackagePath": "staticwebassets\\js\\jsShowCourseBookHomepage.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\plugins\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\js\\tether.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\js\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\js\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\js\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\js\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\js\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\js\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\js\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\js\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\animate\\animate.min_1.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\animate\\animate_1.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\easing\\easing.min_1.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\easing\\easing_1.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\LICENSE_1",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader_1.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader_1.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green_1.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green_1.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play_1.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play_1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\owl.carousel.min_1.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\owlcarousel\\owl.carousel_1.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\waypoints\\links_1.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links_1.php"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\waypoints\\waypoints.min_1.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\wow\\wow.min_1.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\lib\\wow\\wow_1.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow_1.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\backtotop.scss",
+      "PackagePath": "staticwebassets\\scss\\backtotop.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\blog.scss",
+      "PackagePath": "staticwebassets\\scss\\blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\contact.scss",
+      "PackagePath": "staticwebassets\\scss\\contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\footer.scss",
+      "PackagePath": "staticwebassets\\scss\\footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\header.scss",
+      "PackagePath": "staticwebassets\\scss\\header.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\heading.scss",
+      "PackagePath": "staticwebassets\\scss\\heading.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\hero.scss",
+      "PackagePath": "staticwebassets\\scss\\hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\mixins\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\mixins\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_miscellaneous.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\preloader.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\utilities\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\utilities\\_fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\utilities\\_responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\utilities\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\New folder (6)\\ProductReview\\wwwroot\\scss\\widget.scss",
+      "PackagePath": "staticwebassets\\scss\\widget.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProductReview.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProductReview.props",
+      "PackagePath": "build\\ProductReview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductReview.props",
+      "PackagePath": "buildMultiTargeting\\ProductReview.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProductReview.props",
+      "PackagePath": "buildTransitive\\ProductReview.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

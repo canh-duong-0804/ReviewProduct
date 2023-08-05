@@ -1,0 +1,217 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using ProductReview.Models
+@model Product
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="~/assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="~/assets/img/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>
+        Trang chủ
+    </title>
+    
+    <base href="http://localhost:5203/" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!--     Fonts and icons     -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <!-- CSS Files -->
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/css/paper-dashboard.css?v=2.0.1" rel="stylesheet" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="~/assets/demo/demo.css" rel="stylesheet" />
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+
+
+
+<div class="wrapper ">
+    <div class="sidebar" data-color="white" data-active-color="danger">
+        <div class="logo">
+            <a href="Admin/UpdateUser" class="simple-text logo-mini">
+                <div class="logo-image-small">
+                </div>
+                <!-- <p>CT</p> -->
+            </a>
+            <a href="Admin/UpdateUser" class="simple-text logo-normal">
+
+            </a>
+        </div>
+        <div class="sidebar-wrapper">
+            <ul class="nav">
+                <li class="active ">
+                    <a href="Admin/Index">
+                        <i class="nc-icon nc-bank"></i>
+                        <p>Thống kê</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="Admin/AddBlog">
+                        <i class="fa fa-plus" aria-hidden="true"></i>
+                        <p>Thêm bài viết mới</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="Admin/UpdateUser">
+                        <i class="nc-icon nc-single-02"></i>
+                        <p>Tài Khoản</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-panel">
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-absolute fixed-top navbar-transparent">
+            <div class="container-fluid">
+                <div class="navbar-wrapper">
+                    <div class="navbar-toggle">
+                        <button type="button" class="navbar-toggler">
+                            <span class="navbar-toggler-bar bar1"></span>
+                            <span class="navbar-toggler-bar bar2"></span>
+                            <span class="navbar-toggler-bar bar3"></span>
+                        </button>
+                    </div>
+                    <a class="navbar-brand" href="javascript:;">Thêm bài viết mới</a>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-bar navbar-kebab"></span>
+                    <span class="navbar-toggler-bar navbar-kebab"></span>
+                    <span class="navbar-toggler-bar navbar-kebab"></span>
+                </button>
+            </div>
+        </nav>
+        <!-- End Navbar -->
+
+        <div class="content">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="tile">
+                        <h3 class="tile-title">Tạo bài viết mới</h3>
+                        <div class="tile-body">
+                            <form asp-controller="Home" asp-action="UpdateProduct" method="post" enctype="multipart/form-data">
+                                <div class="form-group">
+                                    <label for="ProductName">id:</label>
+                                    <input type="" class="form-control" id="ProductId" name="ProductId" asp-for="ProductId" readonly value="@Model.ProductId">
+                                    <span style="color:red; font-size:15px;" asp-validation-for="ProductName"></span>
+                                </div><div class="form-group">
+                                    <label for="ProductName">Name:</label>
+                                    <input type="text" class="form-control" id="ProductName" name="ProductName" asp-for="ProductName" value="@Model.ProductName" required>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="ProductName"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Description">Description:</label>
+                                    <input type="text" class="form-control" id="Description" name="Description" asp-for="Description" value="@Model.Description" required>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="Description"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Category">Category:</label>
+                                    <select id="Category" name="Category" asp-for="Category" oninvalid="">
+                                        @if (Model.Category == "tech")
+                                        {
+                                            <option selected value="@Model.Category">@Model.Category</option>
+                                            <option value="Beuty">Beuty</option>
+                                        }
+
+                                        else if (Model.Category == "Beuty")
+                                        {
+                                            
+                                            <option value="tech">Tech</option>
+                                            <option selected value="@Model.Category">@Model.Category</option>
+                                        }
+
+
+                                        
+                                    </select>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="Category"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Brand">Brand:</label>
+                                    <input type="text" class="form-control" id="Brand" name="Brand" asp-for="Brand" value="@Model.Brand" required>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="Brand"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Price">Price:</label>
+                                    <input type="text" class="form-control" id="Price" name="Price" asp-for="Price" value="@Model.Price" required>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="Price"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="ReleaseDate">Release date:</label>@Model.ReleaseDate.ToString("mm/dd/yyyy") 
+                                    <input type="date" class="form-control" id="ReleaseDate" name="ReleaseDate" value="@Model.ReleaseDate.ToString("yyyy-MM-dd")" required>
+                                    <span style="color:red; font-size:15px;" asp-validation-for="ReleaseDate"></span>
+                                </div>
+                                <script>
+        // Lấy giá trị của @Model.ReleaseDate
+        var releaseDateValue = '@Model.ReleaseDate.ToString("yyyy-MM-dd")';
+
+        // Gán giá trị vào ô input
+        document.getElementById('ReleaseDate').value = releaseDateValue;
+    </script>
+                                <div class="form-group">
+                                    <label for="Image">Image:</label>
+                                    <div class="custom-file">
+
+                                        <input name="Img" accept=".jpg,.jpeg,.png" id="img" style="opacity:1;position:relative;height:auto" class="form-control" type="file" value="@Model.Image" >
+                                        <input id="nameimg" type="hidden" asp-for="Image" style="max-width: 100%" value="@Model.Image" required />
+                                        <span style="color:red; font-size:15px;" asp-validation-for="Image"></span>
+                                        <label class="custom-file-label" for="Image">Choose file</label>
+                                    </div>
+                                </div>
+                                <script>
+
+
+                                    document.getElementById('img').addEventListener('change', (e) => {
+                                        const file = e.target.files[0];
+                                        console.log(file.name);
+                                        const reader = new FileReader();
+
+
+                                        document.getElementById('nameimg').value = file.name;
+                                    });
+                                </script>
+
+                                <div class="form-group">
+                                    <input type="submit" class="btn btn-primary" value="ADD">
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--   Core JS Files   -->
+    <script src="~/assets/js/core/jquery.min.js"></script>
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+    <!--  Google Maps Plugin    -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+    <!-- Chart JS -->
+    <script src="~/assets/js/plugins/chartjs.min.js"></script>
+    <!--  Notifications Plugin    -->
+    <script src="~/assets/js/plugins/bootstrap-notify.js"></script>
+    <!-- Control Center for Now Ui Dashboard: parallax effects, scripts for the example pages etc -->
+    <script src="~/assets/js/paper-dashboard.min.js?v=2.0.1" type="text/javascript"></script><!-- Paper Dashboard DEMO methods, don't include it in your project! -->
+    <script src="~/assets/demo/demo.js"></script>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
